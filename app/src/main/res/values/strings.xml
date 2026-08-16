@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="student_profile">Student Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="programme">Programme</string>
+    <string name="department">Department</string>
+    <string name="semester">Semester</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="edit">Edit</string>
+</resources>
