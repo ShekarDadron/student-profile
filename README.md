@@ -1,4 +1,5 @@
-##Student Profile App 
+# Student Profile App
+
 A clean, modern Android application developed in Kotlin using Material Design 3 components.
 
 ## Features
