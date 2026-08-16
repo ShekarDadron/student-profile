@@ -7,9 +7,52 @@
     <string name="programme">Programme</string>
     <string name="department">Department</string>
     <string name="semester">Semester</string>
+    <string name="year">Year</string>
     <string name="email_address">Email Address</string>
     <string name="phone_number">Phone Number</string>
     <string name="save">Save</string>
     <string name="clear">Clear</string>
     <string name="edit">Edit</string>
+
+    <string-array name="years_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="semesters_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="programmes_array">
+        <item>Civil Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Electronics and Communication</item>
+        <item>Information Technology</item>
+        <item>Architecture</item>
+        <item>Engineering Geology</item>
+        <item>Instrumentation and Control Engineering</item>
+        <item>Water Resource Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Software Engineering</item>
+    </string-array>
+
+    <string-array name="departments_array">
+        <item>Architecture Department</item>
+        <item>Computing Technologies Department</item>
+        <item>Civil &amp; Environmental Engineering Department</item>
+        <item>Electrical &amp; Electronics Engineering Department</item>
+        <item>Mechanical Engineering Department</item>
+    </string-array>
 </resources>
